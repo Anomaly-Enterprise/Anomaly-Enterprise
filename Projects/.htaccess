@@ -1,0 +1,4 @@
+AuthGroupFile /dev/null
+AuthUserFile /home/anomalye/domains/anomalyenterprise.in/.htpasswd/public_html/Projects/.htpasswd
+AuthName "Admin Access"
+ErrorDocument 401 "Unauthorized Access"
